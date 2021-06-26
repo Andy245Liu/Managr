@@ -4,3 +4,6 @@ Managr is a Java-based time management and scheduling desktop app for students u
 *Note in order to use Managr, you must have jdbc sqlite installed (you'll need a sqlite-jdbc-3.30.1.jar file) and JCalendar installed (you'll need a jcalendar-1.4.jar file). 
 
 *Also, in the Main.java file, you must change the URL variable to "jdbc:sqlite:PATH TO YOUR ManagrData.db file" (example: public static final String URL = "jdbc:sqlite:D:/Managr/Managr3/ManagrData.db").
+
+# Demo
+For how to use the app and to understand its functionalities, please see the file "User Manual.pdf".
